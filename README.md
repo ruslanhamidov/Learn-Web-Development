@@ -14,5 +14,5 @@
 - Learning Web Design by Jennifer Niederst Robbins
 
 ## Practice Javascript
-- [javascript30](https://javascript30.com/)
+- Daily Javascript projects [javascript30](https://javascript30.com/)
 
